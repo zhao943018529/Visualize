@@ -1,0 +1,13 @@
+.babylon-container {
+  width: 100%;
+  height: 600px;
+}
+
+#info {
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  text-align: center;
+  z-index: 100;
+  display: block;
+}

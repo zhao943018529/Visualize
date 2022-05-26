@@ -1,0 +1,11 @@
+.camera-split {
+  display: flex;
+  position: fixed;
+  width: inherit;
+  height: inherit;
+}
+
+.split-item {
+  width: 450px;
+  height: 400px;
+}
